@@ -30,3 +30,7 @@
   <img align="center" alt="Maria-css#" height="30" width="40" src="https://raw.githubusercontent.com/mleilane/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg">
  
 </div>
+<img width="1202" alt="Captura de Tela 2024-07-15 às 16 26 23" src="https://github.com/user-attachments/assets/377f980c-c6af-4f83-ba4f-0516b4ca6acb">
+
+
+
